@@ -12,7 +12,7 @@ import Contatos from './componentes/Contatos';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Cabecalho />
         <Routes>
