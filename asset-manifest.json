@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Site_ghPages/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Site_ghPages/static/js/main.90021e21.chunk.js",
+    "main.js.map": "/Site_ghPages/static/js/main.90021e21.chunk.js.map",
+    "runtime-main.js": "/Site_ghPages/static/js/runtime-main.8f161b38.js",
+    "runtime-main.js.map": "/Site_ghPages/static/js/runtime-main.8f161b38.js.map",
+    "static/js/2.848b6920.chunk.js": "/Site_ghPages/static/js/2.848b6920.chunk.js",
+    "static/js/2.848b6920.chunk.js.map": "/Site_ghPages/static/js/2.848b6920.chunk.js.map",
+    "static/js/3.fc611fba.chunk.js": "/Site_ghPages/static/js/3.fc611fba.chunk.js",
+    "static/js/3.fc611fba.chunk.js.map": "/Site_ghPages/static/js/3.fc611fba.chunk.js.map",
+    "index.html": "/Site_ghPages/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Site_ghPages/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.848b6920.chunk.js.LICENSE.txt": "/Site_ghPages/static/js/2.848b6920.chunk.js.LICENSE.txt",
+    "static/media/Hands.bd871102.jpg": "/Site_ghPages/static/media/Hands.bd871102.jpg",
+    "static/media/crello-CorBussines.b89d8e18.jpg": "/Site_ghPages/static/media/crello-CorBussines.b89d8e18.jpg",
+    "static/media/crello-Easy.c1b52015.jpg": "/Site_ghPages/static/media/crello-Easy.c1b52015.jpg",
+    "static/media/crello-Free.7ab248b0.jpg": "/Site_ghPages/static/media/crello-Free.7ab248b0.jpg",
+    "static/media/crello-Meeting.0549c5bd.jpg": "/Site_ghPages/static/media/crello-Meeting.0549c5bd.jpg",
+    "static/media/crello-certify.23dfba4f.jpg": "/Site_ghPages/static/media/crello-certify.23dfba4f.jpg",
+    "static/media/crello-flipchart.067a8d63.jpg": "/Site_ghPages/static/media/crello-flipchart.067a8d63.jpg",
+    "static/media/crello-incompany.d6e121d5.jpg": "/Site_ghPages/static/media/crello-incompany.d6e121d5.jpg",
+    "static/media/crello-online.8ede70de.jpg": "/Site_ghPages/static/media/crello-online.8ede70de.jpg",
+    "static/media/crello-pos.5452445b.jpg": "/Site_ghPages/static/media/crello-pos.5452445b.jpg",
+    "static/media/working.a1d7469b.jpg": "/Site_ghPages/static/media/working.a1d7469b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f161b38.js",
+    "static/js/2.848b6920.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.90021e21.chunk.js"
+  ]
+}
